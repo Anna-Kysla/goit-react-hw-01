@@ -1,0 +1,16 @@
+.transaction-table {
+  width: 80%;
+  margin: 30px auto;
+  border-collapse: collapse;
+}
+
+.transaction-table th,
+.transaction-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+.transaction-table th {
+  background-color: #f0f0f0;
+}

@@ -1,0 +1,28 @@
+.profile {
+  max-width: 300px;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.avatar {
+  width: 100px;
+  border-radius: 50%;
+  margin-top: 20px;
+}
+
+.stats {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
+  background-color: #eee;
+  border-top: 1px solid #ccc;
+}
+
+.stats li {
+  display: flex;
+  flex-direction: column;
+}
